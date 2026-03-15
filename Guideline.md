@@ -60,7 +60,7 @@
 |------|------|------|
 | 会议文件 | `YYYY-MM-DD.md` | `2024-03-15.md` |
 | 实验文件 | `EXP-NNN.md` | `EXP-003.md` |
-| 图片 | `EXP-NNN-描述.png`, 放置于Fig文件夹| `EXP-003-loss-curve.png` |
+| 图片 | `EXP-NNN-描述.png`, 放置于assets文件夹| `EXP-003-loss-curve.png` |
 
 ---
 
@@ -85,7 +85,7 @@
 ├── experiments/           # 实验记录
 │   ├── EXP-001.md
 │   └── ...
-└── assets/                # 图片、图表等资源
+└── assets/                # 图片等资源
     └── ...
 ```
 
